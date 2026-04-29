@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasEKN
 - 👀 I’m interested in Neuroscience and computer science 
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning new machine learning approaches
 - 💞️ I’m looking to collaborate on neuroscience research projects
 - 📫 How to reach me: thomasknightemail@gmail.com
 
